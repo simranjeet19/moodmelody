@@ -1,0 +1,66 @@
+{
+  "raag": "Bhairav",
+  "alternate_names": ["Bhairava", "Shree Bhairav"],
+  "thaat": "Bhairav",
+  "jati": "Sampurna-Sampurna (7 notes up, 7 notes down)",
+  "time_of_day": "Early morning — first prahar (6am to 9am), sunrise",
+  "season": "Winter",
+  "vadi": "Dha (komal Dhaivat)",
+  "samvadi": "Re (komal Rishabh)",
+  "aaroh": "Sa re Ga Ma Pa dha Ni Sa",
+  "avaroh": "Sa Ni dha Pa Ma Ga re Sa",
+  "notes_used": "Re komal, Ga shuddh, Ma shuddh, Pa shuddh, Dha komal, Ni shuddh",
+  "characteristic_pakad": "Sa re Ga Ma Pa dha Pa, Ma Ga re Sa",
+  "rasa": ["Bhakti (deep morning devotion)", "Shanta (solemn peace)", "Gambhira (serious gravity)", "Karuna (compassionate depth)"],
+  "emotional_resonance": [
+    "needing spiritual grounding first thing in the morning",
+    "waking up with heaviness or dread",
+    "anxiety about the day ahead",
+    "need for serious intention-setting",
+    "morning grief that arrives on waking",
+    "feeling disconnected from purpose",
+    "before an important prayer or ritual",
+    "needing solemnity to match the gravity of a situation",
+    "a sense that today matters deeply"
+  ],
+  "therapy_note": "Bhairav is the raag of Lord Shiva at dawn — it carries the quality of the first light as it touches something ancient and sacred. The two komal notes (Re and Dha) on either side of the scale create a unique symmetry — a solemn, perfectly balanced gravity. It is serious without being heavy, devotional without being supplicatory. Singing Bhairav at sunrise fills the morning with intention, weight, and sacredness.",
+  "bollywood_references": [
+    {
+      "title": "Jyot Se Jyot Jagao",
+      "film": "Sant Gyaneshwar",
+      "year": 1964,
+      "singer": "Lata Mangeshkar",
+      "note": "Bhairav-based morning devotional"
+    },
+    {
+      "title": "Prabhati — Vaishnav Jan To",
+      "film": "Traditional bhajan",
+      "year": 1950,
+      "singer": "Various",
+      "note": "Some versions rendered in Bhairav"
+    },
+    {
+      "title": "Mere To Giridhar Gopal",
+      "film": "Non-film bhajan",
+      "year": 1960,
+      "singer": "Pandit Bhimsen Joshi",
+      "note": "Bhairav-based Mirabai bhajan"
+    },
+    {
+      "title": "Prabhat Ki Bela",
+      "film": "Parwana",
+      "year": 1947,
+      "singer": "K.L. Saigal",
+      "note": "K.L. Saigal's morning song with Bhairav character"
+    },
+    {
+      "title": "Om Jai Jagdish Hare",
+      "film": "Traditional aarti",
+      "year": 1950,
+      "singer": "Traditional",
+      "note": "Often sung in Bhairav thaat — morning aarti"
+    }
+  ],
+  "classical_reference": "Pandit Bhimsen Joshi's Bhairav recordings and Ustad Rashid Khan's morning concerts. Bandish: 'Bhor Bhai Din Chadh Gayo Meri Ambe'. Note: Bhairav and Bhairavi are completely different raags — different notes, different times, different rasas.",
+  "notes_for_vocalist": "Do not confuse Bhairav with Bhairavi — Bhairav has komal Re and komal Dha (with shuddh Ga and Ni); Bhairavi has komal Re, komal Ga, komal Dha, and komal Ni. Bhairav has a masculine, solemn quality while Bhairavi is tender. The komal Dha is the vadi — give it full weight. Morning raags should be sung slowly and with gravitas."
+}

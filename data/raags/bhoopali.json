@@ -1,0 +1,66 @@
+{
+  "raag": "Bhoopali",
+  "alternate_names": ["Bhupali", "Bhoop", "Bhoopalam (Carnatic)"],
+  "thaat": "Kalyan",
+  "jati": "Audav-Audav (pentatonic — 5 notes up, 5 notes down)",
+  "time_of_day": "Evening — first prahar of night (6pm to 9pm)",
+  "season": "All seasons; especially spring and early summer",
+  "vadi": "Ga (shuddh Gandhar)",
+  "samvadi": "Dha (shuddh Dhaivat)",
+  "aaroh": "Sa Re Ga Pa Dha Sa",
+  "avaroh": "Sa Dha Pa Ga Re Sa",
+  "notes_used": "Sa Re Ga Pa Dha — only 5 shuddh notes; Ma and Ni are completely absent",
+  "characteristic_pakad": "Ga Re Sa, Pa Ga, Dha Pa Ga Re Sa",
+  "rasa": ["Shringar (pure joy and romance)", "Shanta (peaceful happiness)", "Prasanna (contentment)"],
+  "emotional_resonance": [
+    "feeling disconnected from simple happiness",
+    "overthinking that is ruining joy",
+    "need to come back to basics after complexity",
+    "mild anxiety that needs a simple antidote",
+    "children needing calming",
+    "wanting to feel innocent and light again",
+    "after a good day that needs to be savored",
+    "wanting to share joy with someone",
+    "creative block — too much thinking, not enough feeling"
+  ],
+  "therapy_note": "Bhoopali is one of the most naturally joyful raags in all of Indian classical music. Its pentatonic structure (5 shuddh notes) creates a sound that is utterly unambiguous — there is no tension, no komal note to create longing or darkness. It sounds like open fields, clear sky, a child's laughter. This is why it is used in folk songs, children's songs, and bhajans across India. When life has become too complicated, Bhoopali is the reminder that simplicity is available.",
+  "bollywood_references": [
+    {
+      "title": "Raghupati Raghav Raja Ram",
+      "film": "Non-film devotional",
+      "year": 1950,
+      "singer": "Traditional",
+      "note": "Classic Bhoopali devotional — the pentatonic structure is immediately recognizable"
+    },
+    {
+      "title": "Vande Mataram",
+      "film": "Anand Math",
+      "year": 1952,
+      "singer": "Lata Mangeshkar",
+      "note": "Bhoopali-based national song — pure 5-note structure"
+    },
+    {
+      "title": "Jab Koi Baat Bigad Jaaye",
+      "film": "Jurm",
+      "year": 1990,
+      "singer": "Kumar Sanu",
+      "note": "Bhoopali-influenced optimistic melody"
+    },
+    {
+      "title": "Ye Dosti Hum Nahin Todenge",
+      "film": "Sholay",
+      "year": 1975,
+      "singer": "Kishore Kumar, Mohammed Rafi",
+      "note": "Bhoopali-based — joyful, simple, pentatonic character"
+    },
+    {
+      "title": "Tum Ho Toh",
+      "film": "Rock On",
+      "year": 2008,
+      "singer": "Farhan Akhtar",
+      "note": "Modern Bhoopali-inspired melody"
+    }
+  ],
+  "classical_reference": "One of the first raags taught to students. Pandit Ravi Shankar's sitar recordings are beautiful references. Bandish: 'Eri Mero Suno' and numerous folk bhajans.",
+  "notes_for_vocalist": "The beauty of Bhoopali is restraint — there are only 5 notes, so the art is entirely in how you use them. Ma and Ni are completely forbidden. The Ga is the vadi and gets the most elaboration. Meend (glide) from Dha down to Pa to Ga is very characteristic. This raag is excellent for beginners and for warming up, but masters also find deep satisfaction in it — its simplicity is the challenge."
+}

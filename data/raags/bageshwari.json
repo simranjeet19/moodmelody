@@ -1,0 +1,66 @@
+{
+  "raag": "Bageshwari",
+  "alternate_names": ["Bageshri", "Bageshree"],
+  "thaat": "Kafi",
+  "jati": "Shadav-Sampurna (6 notes ascending — Re varja; 7 descending)",
+  "time_of_day": "Late night — second prahar of night (9pm to 12am)",
+  "season": "Winter",
+  "vadi": "Ma (shuddh Madhyam)",
+  "samvadi": "Sa (Shadja)",
+  "aaroh": "Sa ga Ma Pa ni Sa (Re omitted in aaroh)",
+  "avaroh": "Sa ni Dha Pa Ma ga Re Sa",
+  "notes_used": "Re shuddh (descent only), Ga komal, Ma shuddh, Pa shuddh, Dha shuddh, Ni komal",
+  "characteristic_pakad": "Ma ga Sa, ni Sa ga Ma Pa, ni Sa",
+  "rasa": ["Karuna (yearning and ache)", "Shringar (longing love)", "Bhakti (devotional yearning)"],
+  "emotional_resonance": [
+    "feeling abandoned or neglected by someone you love",
+    "husband or partner being emotionally unavailable",
+    "a quiet, persistent heartache that doesn't go away",
+    "feeling unseen in a relationship",
+    "longing for closeness that is not being reciprocated",
+    "staying awake at night with unresolved feelings",
+    "missing someone who has drifted away",
+    "unexpressed love or unspoken words",
+    "loneliness within a relationship"
+  ],
+  "therapy_note": "Bageshwari is often described as the raag of virahini — the woman waiting for her beloved who does not come. The omission of Re in the ascent creates a specific reaching quality, like a hand extended that isn't taken. The komal Ga and komal Ni create the characteristic tenderness that borders on ache. This is not the dramatic grief of Bhairavi — it is the quiet, persistent longing of someone who continues to hope despite being hurt.",
+  "bollywood_references": [
+    {
+      "title": "Kahe Naa Kahe Naa",
+      "film": "Umrao Jaan (1981)",
+      "year": 1981,
+      "singer": "Asha Bhosle",
+      "note": "Bageshwari-influenced — captures the raag's quiet yearning"
+    },
+    {
+      "title": "Baat Nahi Karne Ki",
+      "film": "Classical thumri",
+      "year": 1965,
+      "singer": "Bade Gulam Ali Khan",
+      "note": "Classic Bageshri treatment"
+    },
+    {
+      "title": "Tu Pyar Ka Sagar Hai",
+      "film": "Seema",
+      "year": 1955,
+      "singer": "Mohammed Rafi",
+      "note": "Bageshwari-based bhajan with the characteristic longing quality"
+    },
+    {
+      "title": "Maine Tere Liye Hi Saat Rang Ke Sapne",
+      "film": "Anand",
+      "year": 1971,
+      "singer": "Kishore Kumar",
+      "note": "Bageshri-influenced melody"
+    },
+    {
+      "title": "Piya Bina Nahin Aavat Chain",
+      "film": "Non-film classical thumri",
+      "year": 1960,
+      "singer": "Siddheshwari Devi",
+      "note": "Definitive Bageshri thumri"
+    }
+  ],
+  "classical_reference": "Bade Gulam Ali Khan's Bageshri is considered the definitive recording. Bandish: 'Piya Bina Nahin Aavat Chain' and 'Baat Nahi Karoon'",
+  "notes_for_vocalist": "Like Rageshwari, Re is forbidden in the ascent — this omission is essential to the raag's identity. The phrase 'Ma ga Sa' is the signature — the drop from Ma to komal ga to Sa creates the raag's characteristic ache. Ni komal is important and must be sung softly. Ma is the vadi and should be given full weight. This raag requires a meditative, unhurried approach — it cannot be sung in a hurry."
+}

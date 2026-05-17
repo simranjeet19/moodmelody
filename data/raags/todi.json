@@ -1,0 +1,64 @@
+{
+  "raag": "Todi",
+  "alternate_names": ["Miyan Ki Todi", "Miyan Todi"],
+  "tradition": "Hindustani",
+  "thaat": "Todi",
+  "jati": "Sampurna-Sampurna (7 notes up, 7 notes down)",
+  "time_of_day": "Late morning — second prahar (9am to 12pm)",
+  "season": "Winter and early spring",
+  "vadi": "Dha (komal Dhaivat — d)",
+  "samvadi": "Ga (komal Gandhar — g)",
+  "aaroh": "S r g M# P d n S'",
+  "avaroh": "S' n d P M# g r S",
+  "swaras": {
+    "komal": ["Re", "Ga", "Dha", "Ni"],
+    "teevra": ["Ma"],
+    "shuddh": ["Pa"],
+    "varjit": []
+  },
+  "notes_used": "Re komal, Ga komal, Ma TEEVRA (M#), Pa shuddh, Dha komal, Ni shuddh (n written with lowercase to match komal convention — note: Ni in Todi is sometimes debated between shuddh and komal by gharana; mainstream treatment uses shuddh Ni).",
+  "characteristic_pakad": ["d P M# g r S", "S r g M# P", "d n S'"],
+  "rasa": ["Bhakti (devotion)", "Karuna (deep sorrow and compassion)", "Vipralambha Shringar (longing in separation)", "Veera (courage from depth)"],
+  "emotional_resonance": [
+    "deep sadness or grief",
+    "feeling like a failure after bad results",
+    "loss — of a relationship, opportunity or loved one",
+    "existential heaviness",
+    "pre-exam anxiety that has become despair",
+    "need for inner strength and grounding",
+    "feeling misunderstood or alone",
+    "spiritual seeking or crisis of faith",
+    "heartbreak"
+  ],
+  "therapy_note": "Todi is one of the deepest raags in Hindustani music. The four komal notes plus the teevra Ma create an intense inward pull — like the mind turning away from the outer world and going deep within. It does not merely express sadness — it transforms sadness into something sacred. Singing Todi does not amplify grief; it dignifies it, making the experience bearable and even transcendent.",
+  "bollywood_references": [
+    {
+      "title": "Mere Naina Sawan Bhadon",
+      "film": "Mehbooba",
+      "year": 1976,
+      "singer": "Kishore Kumar",
+      "confidence": "high",
+      "note": "Strongly Todi-influenced — the komal Re, komal Ga, and teevra Ma are clearly audible in the melodic movement"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Ustad Amir Khan",
+      "type": "Vocal — legendary recordings; considered the definitive Todi"
+    },
+    {
+      "artist": "Pandit Bhimsen Joshi",
+      "type": "Vocal reference"
+    }
+  ],
+  "notes_for_vocalist": "The teevra Ma (M#) must be written and sung consistently — a previous version of this file inconsistently used plain 'Ma' which was ambiguous. The komal Re creates immediate tension from the very first note. The teevra Ma (sharp fourth) is the raag's most distinctive feature — it creates a piercing quality alongside the surrounding komal notes. Dha komal is the vadi and gets the most elaboration. This is a demanding raag — do not rush the aalaap.",
+  "common_mistakes": [
+    "Using shuddh Ma — only teevra Ma (M#) is correct in Todi",
+    "Writing 'Ma' when teevra Ma is intended — always write M# for clarity",
+    "Rushing through the komal notes — each must be given full weight",
+    "Confusing with Bhairavi which has a similar surface feel but very different note set"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "medium",
+  "variant_notes": "Todi is also a thaat name. The treatment of Ni varies slightly by gharana — most mainstream treatments use shuddh Ni, but some use komal Ni. Teevra Ma must always be consistent."
+}

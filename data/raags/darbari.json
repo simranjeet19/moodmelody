@@ -1,0 +1,79 @@
+{
+  "raag": "Darbari Kanada",
+  "alternate_names": ["Darbari", "Darbari Kanhara", "Miyan Ki Darbari"],
+  "tradition": "Hindustani",
+  "thaat": "Asavari",
+  "jati": "Sampurna (though Pa is treated as alpatva — weak — in practice)",
+  "time_of_day": "Late night — midnight to 3am",
+  "season": "All seasons; especially winter nights",
+  "vadi": "Re (shuddh Rishabh — R)",
+  "samvadi": "Pa (Pancham — P)",
+  "aaroh": "S R g M P d n S'",
+  "avaroh": "S' n d P M g R g S",
+  "swaras": {
+    "komal": ["Ga", "Dha", "Ni"],
+    "teevra": [],
+    "shuddh": ["Re", "Ma", "Pa"],
+    "varjit": []
+  },
+  "notes_used": "Re SHUDDH, Ga komal (with heavy andolan/oscillation), Ma shuddh, Pa shuddh (weak), Dha komal (with andolan), Ni komal. The andolan (oscillation) on Ga komal and Dha komal is the defining identity of this raag.",
+  "characteristic_pakad": ["S R g R S", "M P d P M g R g S", "n d P M g R S"],
+  "rasa": ["Gambhira (deep solemnity)", "Veera (inner strength)", "Raudra (controlled intensity)", "Karuna (noble sorrow)"],
+  "emotional_resonance": [
+    "feeling defeated or crushed after a major setback",
+    "loss of confidence after serious failure",
+    "cold anger that has become heavy and still",
+    "feeling powerless against circumstances",
+    "needing inner strength before a difficult confrontation",
+    "processing injustice or unfair treatment",
+    "weight of responsibility that feels crushing",
+    "needing courage that is earned, not borrowed"
+  ],
+  "therapy_note": "Darbari was created by Miyan Tansen and sung in the court of Akbar — its origin is regal, solemn, and serious. The heavy andolan (oscillation) on komal Ga is unlike any other raag in the system — it creates a sound of enormous, controlled gravity. Darbari does not comfort; it fortifies. It is the raag you engage when you need the strength of a warrior, not the solace of a mother. It does not make problems smaller — it makes the listener bigger.",
+  "bollywood_references": [
+    {
+      "title": "Man Re Tu Kahe Na Dheer Dhare",
+      "film": "Chitralekha",
+      "year": 1964,
+      "singer": "Mohammed Rafi",
+      "confidence": "high",
+      "note": "Widely regarded as one of the finest Darbari-influenced compositions in Bollywood — not a strict khayal treatment but strong raag shading"
+    },
+    {
+      "title": "Ay Mere Watan Ke Logon",
+      "film": "Non-film patriotic",
+      "year": 1963,
+      "singer": "Lata Mangeshkar",
+      "confidence": "medium",
+      "note": "Contains Darbari-like gravity and solemnity — often cited as Darbari-influenced, though not a strict classical treatment"
+    },
+    {
+      "title": "Jhootha Hi Sahi",
+      "film": "April Fool",
+      "year": 1964,
+      "singer": "Mohammed Rafi",
+      "confidence": "medium",
+      "note": "Darbari-influenced shading"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Ustad Amir Khan",
+      "type": "Vocal — widely considered the definitive interpretation"
+    },
+    {
+      "artist": "Pandit Bhimsen Joshi",
+      "type": "Vocal reference"
+    }
+  ],
+  "notes_for_vocalist": "Re in Darbari is SHUDDH (natural), not komal — this is a frequently misunderstood point. The komal notes are Ga, Dha, and Ni. The defining characteristic is the heavy andolan (oscillation/vibrato) on Ga komal and Dha komal — these notes must not be sung straight. Pa is technically present but treated as alpatva (weak). The overall pace must be extremely slow — Darbari at speed loses its identity entirely.",
+  "common_mistakes": [
+    "Treating Re as komal — Darbari uses SHUDDH Re. Komal Re belongs to Todi and similar raags.",
+    "Singing Ga komal without andolan — the oscillation IS the raag's identity",
+    "Singing Dha komal without andolan",
+    "Playing or singing it too fast — this raag requires extreme slowness"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "medium",
+  "variant_notes": "Vadi assignment varies between sources — some list Re as vadi, some list ga (komal Ga) as the most important note. The andolan style also varies by gharana — Agra, Jaipur, and Kirana all treat Darbari somewhat differently."
+}

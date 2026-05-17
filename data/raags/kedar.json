@@ -1,0 +1,67 @@
+{
+  "raag": "Kedar",
+  "alternate_names": ["Kedara"],
+  "tradition": "Hindustani",
+  "thaat": "Kalyan",
+  "jati": "Audav-Sampurna in ascent (Pa and Sa treated as weak/irregular); Sampurna in descent",
+  "time_of_day": "Evening — first prahar of night (6pm to 9pm)",
+  "season": "All seasons; especially rainy season",
+  "vadi": "Ma shuddh (Madhyam — M) — the relationship between shuddh and teevra Ma is the defining feature",
+  "samvadi": "Sa (Shadja — S)",
+  "aaroh": "S M M# P D P M# D N S' (vakra — zigzag movement; Pa is present but approached obliquely)",
+  "avaroh": "S' N D P M# G R S",
+  "swaras": {
+    "komal": [],
+    "teevra": ["Ma (used prominently)"],
+    "shuddh": ["all others — Re, Ga, Pa, Dha, Ni; also Ma shuddh used alongside Ma teevra"],
+    "varjit": []
+  },
+  "notes_used": "Both Ma shuddh (M) and Ma teevra (M#) are used in the same raag — this dual Madhyam is the raag's single most defining characteristic. Pa is present but approached in a vakra (oblique/zigzag) manner, not directly.",
+  "characteristic_pakad": ["S M M# P M# G R S", "M# P D P M#", "M# D N S'"],
+  "rasa": ["Bhakti (pure devotion)", "Shanta (divine peace)", "Adbhut (wonder and reverence)"],
+  "emotional_resonance": [
+    "seeking spiritual grounding",
+    "feeling disconnected from purpose or meaning",
+    "wanting to express gratitude or reverence",
+    "after experiencing something beautiful or profound",
+    "need to slow down and be present",
+    "feeling overwhelmed by the ordinary and wanting the sacred",
+    "before or after prayer or meditation",
+    "a sense of awe that has nowhere to go"
+  ],
+  "therapy_note": "Kedar is a profoundly devotional raag — specifically associated with worship of Shiva. The use of both Madhyams (shuddh and teevra) in the same raag is unusual and creates a shimmering, otherworldly quality, as though moving between the mundane and the sacred. The vakra (zigzag) movement around Pa gives it a circling, meditative character. Singing Kedar in the evening creates a sense of divine presence.",
+  "bollywood_references": [
+    {
+      "title": "Chalo Re Man Ganga Jamuna Teer",
+      "film": "Nai Umar Ki Nai Fasal",
+      "year": 1965,
+      "singer": "Mohammed Rafi",
+      "confidence": "high",
+      "note": "Widely regarded as Kedar-based — the dual Madhyam movement is characteristic"
+    },
+    {
+      "title": "Mera Saya Saath Hoga",
+      "film": "Mera Saya",
+      "year": 1966,
+      "singer": "Lata Mangeshkar",
+      "confidence": "low",
+      "note": "Sometimes cited as Kedar-influenced — treat with caution"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Pandit Bhimsen Joshi",
+      "type": "Vocal — definitive recordings"
+    }
+  ],
+  "notes_for_vocalist": "The dual Madhyam is the heart of Kedar — Ma shuddh and Ma teevra both appear, and the movement between them creates the raag's identity. Pa IS present in Kedar but it is approached in a vakra (oblique/zigzag) manner, not directly in a straight scale ascent. Teevra Ma is NOT the sole vadi — rather, the relationship between the two Mas is what defines the raag. Do not reduce this to 'just use teevra Ma.'",
+  "common_mistakes": [
+    "Treating Pa as absent — Pa is present in Kedar, approached vakra",
+    "Treating only teevra Ma as important and ignoring shuddh Ma — both are essential",
+    "Singing Pa in a straight ascending scale — it must be approached obliquely (vakra)",
+    "Confusing with Yaman, which also uses teevra Ma but has a completely different structure"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "medium",
+  "variant_notes": "Kedar's treatment varies significantly by gharana. Sa's role, the exact vakra movements, and how the two Madhyams interact all show variation. Some renditions use Sa quite minimally; others include it normally."
+}

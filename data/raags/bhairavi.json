@@ -1,0 +1,67 @@
+{
+  "raag": "Bhairavi",
+  "alternate_names": ["Sindhu Bhairavi", "Shuddh Bhairavi"],
+  "thaat": "Bhairavi",
+  "jati": "Sampurna-Sampurna (7 notes, though all komal variants are used freely)",
+  "time_of_day": "Morning; also sung at end of any concert regardless of time",
+  "season": "Winter, spring",
+  "vadi": "Ma (Madhyam)",
+  "samvadi": "Sa (Shadja)",
+  "aaroh": "Sa re ga Ma Pa dha ni Sa",
+  "avaroh": "Sa ni dha Pa Ma ga re Sa",
+  "notes_used": "Re komal, Ga komal, Ma shuddh, Dha komal, Ni komal — all four komal notes",
+  "characteristic_pakad": "Ma ga re Sa, ni dha Pa, Ma ga re Sa",
+  "rasa": ["Karuna (deep compassion and sorrow)", "Shringar (longing, separation)", "Bhakti (surrender and devotion)", "Shanta (ultimate peace through acceptance)"],
+  "emotional_resonance": [
+    "heartbreak and grief",
+    "loss of a loved one",
+    "feeling unvalued by someone you love — husband, partner, family",
+    "crying without knowing why",
+    "longing for something that is gone",
+    "feeling like love was not returned",
+    "after a painful argument with someone close",
+    "when leaving home or a place you love",
+    "farewell and endings",
+    "deep loneliness even in company"
+  ],
+  "therapy_note": "Bhairavi is the raag of compassion — it holds grief without drowning in it. All four of its komal (flat) notes create a sound that is simultaneously tender and vast. It is traditionally sung last at concerts because it is believed to bring a performance to the deepest emotional completion — it touches grief but resolves it gently. Unlike Todi which is inward and searching, Bhairavi is outward and accepting. It is the musical equivalent of being held while you cry.",
+  "bollywood_references": [
+    {
+      "title": "Lag Ja Gale",
+      "film": "Woh Kaun Thi",
+      "year": 1964,
+      "singer": "Lata Mangeshkar",
+      "note": "Definitive Bhairavi-based song — arguably the most famous raag-based Bollywood composition ever"
+    },
+    {
+      "title": "Tere Bina Zindagi Se Koi Shikwa",
+      "film": "Aandhi",
+      "year": 1975,
+      "singer": "Lata Mangeshkar, Kishore Kumar",
+      "note": "Pure Bhairavi — all four komal notes are clearly present"
+    },
+    {
+      "title": "Albela Sajan Aayo Re",
+      "film": "Hum Dil De Chuke Sanam",
+      "year": 1999,
+      "singer": "Kavita Krishnamurthy",
+      "note": "Classical Bhairavi thumri treatment in a Bollywood film"
+    },
+    {
+      "title": "Mohe Panghat Pe Nandlal",
+      "film": "Mughal-E-Azam",
+      "year": 1960,
+      "singer": "Lata Mangeshkar",
+      "note": "Bhairavi-based classical-Bollywood fusion — Tansen-style treatment"
+    },
+    {
+      "title": "Tum Itna Jo Muskura Rahe Ho",
+      "film": "Arth",
+      "year": 1982,
+      "singer": "Jagjit Singh",
+      "note": "Bhairavi-influenced ghazal — the sadness of acceptance"
+    }
+  ],
+  "classical_reference": "Sung by virtually every major Hindustani vocalist. Farewell raag of all concerts. Pandit Bhimsen Joshi's 'Raga Bhairavi' and Kishori Amonkar's recordings are legendary. Bandish: 'Baaje Re Muraliya Baaje'",
+  "notes_for_vocalist": "In Bhairavi, all four komal notes (re, ga, dha, ni) must be sung with full weight — do not soften them further or sharpen them accidentally. Bhairavi also permits the use of all 12 notes as ornaments (gamaks and meends) — this is unique to Bhairavi. Ma is the vadi and must be rested upon. The aalaap should be slow, contemplative, and without hurry. This raag should never be rushed."
+}

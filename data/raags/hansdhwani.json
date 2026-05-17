@@ -1,0 +1,51 @@
+{
+  "raag": "Hansdhwani",
+  "alternate_names": ["Hans Dhwani", "Hamsadhvani (Carnatic)"],
+  "thaat": "Bilawal (by parentage, though technically from Carnatic tradition)",
+  "jati": "Audav-Audav (pentatonic — 5 notes up, 5 notes down)",
+  "time_of_day": "Night — anytime after 9pm; also used at concerts at any time",
+  "season": "All seasons",
+  "vadi": "Ga (shuddh Gandhar)",
+  "samvadi": "Ni (shuddh Nishad)",
+  "aaroh": "Sa Re Ga Pa Ni Sa (Ma and Dha omitted)",
+  "avaroh": "Sa Ni Pa Ga Re Sa",
+  "notes_used": "Sa, Re shuddh, Ga shuddh, Pa shuddh, Ni shuddh — only 5 shuddh notes; Ma and Dha absent",
+  "characteristic_pakad": "Ga Pa Ni Sa, Ni Pa Ga Re Sa",
+  "rasa": ["Shanta (pure calm)", "Prasanna (light happiness)", "Adbhut (gentle wonder)"],
+  "emotional_resonance": [
+    "need for clarity and brightness at night",
+    "feeling clouded or foggy in the evening",
+    "winding down after a busy day without sadness",
+    "a light, clean closing to the day",
+    "feeling cheerful in the evening",
+    "wanting to meditate with a light, clear mind",
+    "after completing something good — a sense of clean satisfaction",
+    "wanting simplicity in the evening without the weight of deeper raags"
+  ],
+  "therapy_note": "Hansdhwani is one of the most beloved raags for its sheer beauty and simplicity — it sounds like a swan (hans) gliding on still water. Like Bhoopali it is pentatonic, but its notes (including Ni) give it a brighter, slightly more elevated quality compared to Bhoopali's more grounded earthiness. It creates instant calm and clarity — it is the raag of the clear, untroubled mind.",
+  "bollywood_references": [
+    {
+      "title": "Vatapi Ganapathim (classical Carnatic composition)",
+      "film": "Classical",
+      "year": 1950,
+      "singer": "M.S. Subbulakshmi",
+      "note": "This Carnatic composition in Hamsadhvani is the most famous piece in this raag"
+    },
+    {
+      "title": "Deva Shree Ganesha",
+      "film": "Agneepath",
+      "year": 2012,
+      "singer": "Ajay-Atul",
+      "note": "Hansdhwani-influenced Ganesha composition"
+    },
+    {
+      "title": "Shree Ganeshaya Dheemahi",
+      "film": "Non-film bhajan",
+      "year": 2000,
+      "singer": "Various",
+      "note": "Hansdhwani-based devotional"
+    }
+  ],
+  "classical_reference": "Originally a Carnatic raag (Hamsadhvani) adopted into Hindustani. M.S. Subbulakshmi's 'Vatapi Ganapathim' is the universal reference. In Hindustani, Pandit Ravi Shankar popularized it on sitar.",
+  "notes_for_vocalist": "Ma and Dha are strictly absent — if either appears, it is no longer Hansdhwani. The Ni shuddh at the top of the scale creates brightness — this is what distinguishes it from Bhoopali (which has Dha instead of Ni). The Ga-Pa-Ni movement is the heart of the raag. This is an accessible raag for singers of all levels — its purity makes it forgiving and beautiful."
+}

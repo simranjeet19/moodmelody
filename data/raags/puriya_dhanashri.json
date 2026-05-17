@@ -1,0 +1,72 @@
+{
+  "raag": "Puriya Dhanashri",
+  "alternate_names": ["Pooriya Dhanashri", "Puriya Dhanasri"],
+  "tradition": "Hindustani",
+  "thaat": "Poorvi",
+  "jati": "Sampurna-Sampurna (7 notes up and down)",
+  "time_of_day": "Dusk and early evening — just before and after sunset (5pm to 8pm)",
+  "season": "All seasons; especially autumn and winter",
+  "vadi": "Ga (shuddh Gandhar — G)",
+  "samvadi": "Ni (shuddh Nishad — N)",
+  "aaroh": "S r G M# P d N S'",
+  "avaroh": "S' N d P M# G r S",
+  "swaras": {
+    "komal": ["Re", "Dha"],
+    "teevra": ["Ma"],
+    "shuddh": ["Ga", "Pa", "Ni"],
+    "varjit": []
+  },
+  "notes_used": "Re komal, Ga SHUDDH, Ma teevra, Pa shuddh, Dha KOMAL, Ni SHUDDH. Ga shuddh and Ni shuddh are the vadi-samvadi pair and form the emotional core.",
+  "characteristic_pakad": ["G M# P d N S'", "N d P M# G r S", "r G M# G r S"],
+  "rasa": ["Shringar (deep romantic longing)", "Karuna (tender sorrow)", "Bhakti (devotional yearning)"],
+  "emotional_resonance": [
+    "deep longing that arrives at dusk",
+    "romantic separation — far from someone you love",
+    "the specific ache of an evening alone",
+    "emotional richness that needs expression",
+    "creative work in the evening that needs emotional fuel",
+    "poetry or art that requires depth of feeling",
+    "feeling the weight of love beautifully",
+    "processing complex emotions at day's end"
+  ],
+  "therapy_note": "Puriya Dhanashri is one of the most emotionally rich raags in the entire system. It combines the serious teevra Ma of the Poorvi family with komal Re, komal Dha, and shuddh Ga and Ni — creating a sound that is simultaneously yearning and resolved. It is a sandhiprakash (twilight) raag — like twilight itself, it holds two qualities at once: the ending of one thing and the beginning of another.",
+  "bollywood_references": [
+    {
+      "title": "Tere Mere Milan Ki Yeh Raina",
+      "film": "Abhimaan",
+      "year": 1973,
+      "singer": "Lata Mangeshkar, Kishore Kumar",
+      "confidence": "medium",
+      "note": "Contains shades of Puriya Dhanashri's evening longing character — not a strict classical treatment"
+    },
+    {
+      "title": "Jab Deep Jale Aana",
+      "film": "Chitchor",
+      "year": 1976,
+      "singer": "Yesudas, Hemlata",
+      "confidence": "medium",
+      "note": "Evening mood with some Puriya Dhanashri characteristics"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Pandit Bhimsen Joshi",
+      "type": "Vocal — widely regarded as the definitive interpretation"
+    },
+    {
+      "artist": "Kishori Amonkar",
+      "type": "Vocal reference"
+    }
+  ],
+  "notes_for_vocalist": "The three critical corrections vs. common errors: Ga is SHUDDH (not komal), Dha is KOMAL (not shuddh), Ni is SHUDDH (not komal). Getting even one of these wrong makes this sound like a different raag entirely. The teevra Ma is essential — never use shuddh Ma in this raag. Ga (shuddh) is the vadi and should be sung with full, tender weight. This raag is for experienced singers — its emotional complexity requires equivalent musical maturity.",
+  "common_mistakes": [
+    "Treating Ga as komal — Ga is SHUDDH in Puriya Dhanashri",
+    "Treating Dha as shuddh — Dha is KOMAL here",
+    "Treating Ni as komal — Ni is SHUDDH here",
+    "Using shuddh Ma — only teevra Ma is permitted",
+    "Confusing with Poorvi or Shree, which share some notes"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "low",
+  "variant_notes": "Some gharanas and musicologists describe slight variations in Pa's treatment — it may be alpatva (weak) in some renditions. Vadi-samvadi assignment can vary by source."
+}

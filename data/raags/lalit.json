@@ -1,0 +1,65 @@
+{
+  "raag": "Lalit",
+  "alternate_names": ["Lalita"],
+  "tradition": "Hindustani",
+  "thaat": "Poorvi (by parentage)",
+  "jati": "Shadav-Shadav (Pa is varja — omitted in both directions)",
+  "time_of_day": "Pre-dawn — brahma muhurta, before sunrise (4am to 6am)",
+  "season": "Winter, spring",
+  "vadi": "Ma teevra (teevra Madhyam — M#)",
+  "samvadi": "Sa (Shadja — S)",
+  "aaroh": "S r G M M# d N S'",
+  "avaroh": "S' N d M# M G r S",
+  "swaras": {
+    "komal": ["Re", "Dha"],
+    "teevra": ["Ma"],
+    "shuddh": ["Ga", "Ni", "Ma (also used)"],
+    "varjit": ["Pa"]
+  },
+  "notes_used": "Re komal, Ga SHUDDH, both Ma shuddh AND Ma teevra (this dual Madhyam is rare and defining), Dha KOMAL, Ni SHUDDH. Pa is completely absent.",
+  "characteristic_pakad": ["M M# d N S'", "S r G M M# G r S", "d N S' r G"],
+  "rasa": ["Karuna (longing at dawn)", "Bhakti (pre-dawn devotion)", "Shanta (sacred stillness)", "Vipralambha Shringar (yearning before meeting)"],
+  "emotional_resonance": [
+    "waking early with anxiety",
+    "racing thoughts before sunrise",
+    "spiritual seeking at dawn",
+    "feeling stuck between night and day",
+    "grief that surfaces in the early hours",
+    "insomnia that has lasted through to dawn",
+    "needing to centre before a very important day",
+    "pre-dawn prayer or meditation",
+    "a sense of longing most acute at dawn"
+  ],
+  "therapy_note": "Lalit is one of the rarest and most complex raags — the raag of brahma muhurta, the sacred hour before dawn when the world is in complete stillness. The combination of komal Re, shuddh Ga, both Madhyams, komal Dha, and the absence of Pa creates a sound that is simultaneously ancient and urgent, like a question asked in the dark before the answer arrives with sunrise.",
+  "bollywood_references": [
+    {
+      "title": "Woh Subah Kabhi Toh Aayegi",
+      "film": "Phir Subah Hogi",
+      "year": 1958,
+      "singer": "Mohammed Rafi",
+      "confidence": "medium",
+      "note": "Contains the pre-dawn longing quality characteristic of Lalit — not a strict classical treatment"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Pandit Bhimsen Joshi",
+      "type": "Vocal — reference recording"
+    },
+    {
+      "artist": "Kumar Gandharva",
+      "type": "Vocal — distinctive personal interpretation"
+    }
+  ],
+  "notes_for_vocalist": "Three critical corrections: Ga is SHUDDH (not komal), Dha is KOMAL (not shuddh), Ni is SHUDDH (not komal). The dual Madhyam (both Ma and Ma# in the same raag) is the most distinctive feature — the shuddh Ma is used in lower movements, the teevra Ma in ascending phrases. Pa is strictly forbidden. This is an advanced raag requiring complete stillness and presence — best practiced between 4am and 6am.",
+  "common_mistakes": [
+    "Treating Ga as komal — Lalit has SHUDDH Ga",
+    "Treating Dha as shuddh — Dha is KOMAL in Lalit",
+    "Treating Ni as komal — Ni is SHUDDH in Lalit",
+    "Using only one Madhyam — the movement between shuddh Ma and teevra Ma is essential",
+    "Including Pa — it is strictly forbidden"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "low",
+  "variant_notes": "Lalit is rarely heard in Bollywood due to its complexity and specialised time constraint. Gharana variations exist in how the two Madhyams are balanced. Some treat teevra Ma as more prominent, others as approximately equal."
+}

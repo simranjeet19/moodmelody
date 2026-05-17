@@ -1,0 +1,66 @@
+{
+  "raag": "Bhimpalasi",
+  "alternate_names": ["Bhimpalashri", "Bhim Palasi"],
+  "thaat": "Kafi",
+  "jati": "Audav-Sampurna (5 notes ascending, 7 notes descending)",
+  "time_of_day": "Afternoon — third prahar (3pm to 6pm)",
+  "season": "Summer",
+  "vadi": "Ma (Madhyam)",
+  "samvadi": "Sa (Shadja)",
+  "aaroh": "Sa ga Ma Pa ni Sa (Re and Dha omitted in ascent)",
+  "avaroh": "Sa ni Dha Pa Ma ga Re Sa",
+  "notes_used": "Re shuddh (descent only), Ga komal, Ma shuddh, Pa shuddh, Dha shuddh (descent only), Ni komal",
+  "characteristic_pakad": "ni Sa ga Ma Pa, Ma ga Re Sa",
+  "rasa": ["Shringar (longing in love)", "Karuna (melancholy)", "Bhakti (yearning devotion)"],
+  "emotional_resonance": [
+    "afternoon slump and fatigue",
+    "post-lunch emotional heaviness",
+    "missing someone during the day",
+    "longing while going about routine tasks",
+    "feeling stuck in the mundane",
+    "creative restlessness",
+    "mild loneliness during the working day",
+    "yearning for meaning in routine work",
+    "a dull ache of unfulfilled desire"
+  ],
+  "therapy_note": "Bhimpalasi is an afternoon raag that captures the specific quality of afternoon longing — when the day is not yet done but energy is fading, and the mind starts to drift toward what it wishes it had. The komal Ga and komal Ni create a gentle ache, while the pentatonic ascent (skipping Re and Dha) gives the raag a reaching, incomplete feeling. It is the musical equivalent of looking out the window on a slow afternoon, thinking of someone.",
+  "bollywood_references": [
+    {
+      "title": "Aaoge Jab Tum Sajna",
+      "film": "Jab We Met",
+      "year": 2007,
+      "singer": "Ustad Rashid Khan",
+      "note": "Widely cited as Bhimpalasi-based — komal Ga and Ni are clearly present"
+    },
+    {
+      "title": "Kaisi Paheli Zindagani",
+      "film": "Parineeta",
+      "year": 2005,
+      "singer": "Shreya Ghoshal",
+      "note": "Bhimpalasi-influenced melodic structure"
+    },
+    {
+      "title": "Piya Re Piya Re",
+      "film": "Pyaasa",
+      "year": 1957,
+      "singer": "Geeta Dutt",
+      "note": "Bhimpalasi-influenced yearning quality"
+    },
+    {
+      "title": "O Meri Zohra Jabeen",
+      "film": "Waqt",
+      "year": 1965,
+      "singer": "Manna Dey",
+      "note": "Bhimpalasi-based thumri in film context"
+    },
+    {
+      "title": "Mora Gora Ang Lai Le",
+      "film": "Bandini",
+      "year": 1963,
+      "singer": "Lata Mangeshkar",
+      "note": "Classical bhajan with strong Bhimpalasi character"
+    }
+  ],
+  "classical_reference": "Pandit Bhimsen Joshi (for whom the raag is named) has definitive recordings. Bandish: 'Kaise Kachu Kahoon' and 'Hamari Atariya Pe'",
+  "notes_for_vocalist": "The key is the pentatonic aaroh — Re and Dha are strictly absent in ascent. The komal Ga is approached gently, not abruptly. The phrase 'ni Sa ga Ma' is the heart of this raag — the jump from ni to Sa and down to komal ga creates the characteristic yearning. Ma is the resting note. In the descent, Re and Dha reappear and must be used correctly. Meend (glide) from Dha to Ma to ga is essential."
+}

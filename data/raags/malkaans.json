@@ -1,0 +1,67 @@
+{
+  "raag": "Malkaans",
+  "alternate_names": ["Malkauns", "Malkos", "Malkaus"],
+  "thaat": "Bhairavi (by parentage)",
+  "jati": "Audav-Audav (pentatonic — 5 notes up, 5 notes down)",
+  "time_of_day": "Deep night — third or fourth prahar (midnight to 3am)",
+  "season": "Winter",
+  "vadi": "Ma (Madhyam)",
+  "samvadi": "Sa (Shadja)",
+  "aaroh": "Sa ga Ma dha ni Sa",
+  "avaroh": "Sa ni dha Ma ga Sa",
+  "notes_used": "Sa, Ga komal, Ma shuddh, Dha komal, Ni komal — Re and Pa are completely absent",
+  "characteristic_pakad": "ga Ma dha Ma, ga Sa, ni dha Ma ga Sa",
+  "rasa": ["Shanta (profound peace)", "Gambhira (solemn depth)", "Bhakti (deep devotion)", "Veera (quiet courage)"],
+  "emotional_resonance": [
+    "insomnia and racing thoughts at night",
+    "anxiety that spikes at night",
+    "deep exhaustion but inability to rest",
+    "feeling emotionally overwhelmed",
+    "anger that has turned inward",
+    "grief that arrives at night",
+    "existential dread",
+    "need for stillness after a chaotic day",
+    "stress after a difficult meeting or confrontation",
+    "numbness or feeling emotionally disconnected"
+  ],
+  "therapy_note": "Malkaans is a pentatonic raag — it uses only 5 notes, removing Re and Pa entirely. This absence creates a circular, enclosed sound that does not travel forward or upward restlessly. It stays low, deep, and still. This is why it is the definitive late-night raag — not because it is sleepy, but because it creates the kind of profound stillness that allows the mind to release its grip. The three komal (flat) notes — Ga, Dha, Ni — give it a dark, inward quality that is not sad but deeply calm and resolute.",
+  "bollywood_references": [
+    {
+      "title": "Mann Tarpat Hari Darshan Ko",
+      "film": "Baiju Bawra",
+      "year": 1952,
+      "singer": "Mohammad Rafi",
+      "note": "Most celebrated Bollywood song based on Malkaans — pure classical treatment"
+    },
+    {
+      "title": "Aaj Jaane Ki Zidd Na Karo",
+      "film": "Non-film ghazal",
+      "year": 1977,
+      "singer": "Farida Khanum",
+      "note": "Partially Malkaans influenced (also has Yaman elements — debated)"
+    },
+    {
+      "title": "Mose Chhal Kiye Jaaye",
+      "film": "Guide",
+      "year": 1965,
+      "singer": "Lata Mangeshkar",
+      "note": "Draws from Malkaans and Bhairavi characteristics"
+    },
+    {
+      "title": "Chalo Dildar Chalo",
+      "film": "Pakeezah",
+      "year": 1972,
+      "singer": "Lata Mangeshkar",
+      "note": "Malkaans-based night composition"
+    },
+    {
+      "title": "Hari Om Tat Sat (Raag Malkaans bandish)",
+      "film": "Classical",
+      "year": 1960,
+      "singer": "Pandit Jasraj",
+      "note": "Classical reference recording"
+    }
+  ],
+  "classical_reference": "Ustad Amir Khan and Pandit Jasraj have definitive recordings. Among the most ancient raags in the system. Bandish: 'Aaj Mori Ankh Bharaai' and 'Hari Om Tat Sat'",
+  "notes_for_vocalist": "The absence of Re and Pa creates a unique, enclosed feeling — do not try to fill these gaps. The three komal notes cluster together (ga, dha, ni) and must be sung with conviction, not hesitancy. Ma is the vadi — give it weight and rest on it. The Sa-ga movement is the heart of this raag. This raag demands a slower, more sustained style — do not sing it fast or lightly."
+}

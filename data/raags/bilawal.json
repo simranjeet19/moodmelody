@@ -1,0 +1,66 @@
+{
+  "raag": "Bilawal",
+  "alternate_names": ["Shudh Bilawal"],
+  "tradition": "Hindustani",
+  "thaat": "Bilawal",
+  "jati": "Sampurna-Sampurna (7 notes up, 7 notes down)",
+  "time_of_day": "Morning — first prahar (6am to 9am)",
+  "season": "Any, especially spring",
+  "vadi": "Ga (shuddh Gandhar — G)",
+  "samvadi": "Dha (shuddh Dhaivat — D)",
+  "aaroh": "S R G M P D N S'",
+  "avaroh": "S' N D P M G R S",
+  "swaras": {
+    "komal": [],
+    "teevra": [],
+    "shuddh": ["all — Sa Re Ga Ma Pa Dha Ni"],
+    "varjit": []
+  },
+  "notes_used": "All shuddh (natural) swaras — Sa Re Ga Ma Pa Dha Ni. No komal, no teevra. Ma is present in both aaroh and avaroh.",
+  "characteristic_pakad": ["G M P D N S'", "D N S' R G", "M G R S"],
+  "rasa": ["Shanta (peace)", "Prasanna (joy)", "Karuna (gentle compassion)"],
+  "emotional_resonance": [
+    "anxiety before starting the day",
+    "confusion and mental fog in the morning",
+    "feeling overwhelmed by morning responsibilities",
+    "need for mental clarity",
+    "stress from a bad night's sleep",
+    "nervousness before a new beginning",
+    "restlessness in the morning",
+    "lack of motivation to start work"
+  ],
+  "therapy_note": "Bilawal uses all natural swaras — there is no tension or darkness in this raag. It sounds clear, bright and open, like sunlight entering a room. Practicing it in the morning resets the nervous system, brings clarity of thought, and creates a calm foundation for the day. It is the musical equivalent of a deep breath and a fresh start.",
+  "bollywood_references": [
+    {
+      "title": "Bhor Bhai Din Chad Gaya",
+      "film": "Pakeezah",
+      "year": 1972,
+      "singer": "Lata Mangeshkar",
+      "confidence": "medium",
+      "note": "Contains Bilawal characteristics in its morning freshness — not a strict classical treatment"
+    },
+    {
+      "title": "Tere Bin Soona Soona Re",
+      "film": "Aarohan",
+      "year": 1982,
+      "singer": "Arati Mukherjee",
+      "confidence": "medium",
+      "note": "Bilawal-influenced melodic character"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Bade Ghulam Ali Khan",
+      "type": "Vocal — recordings considered the high standard for Bilawal"
+    }
+  ],
+  "notes_for_vocalist": "All swaras are shuddh — including Ma, which must appear in both aaroh and avaroh (a previous version of this file omitted Ma from the aaroh, which was an error). Ga and Dha are the vadi and samvadi — they carry the most expression. Ni shuddh gives the raag its bright, open character. Avoid heavy use of lower register — this raag lives in the middle and upper octaves.",
+  "common_mistakes": [
+    "Omitting Ma from the aaroh — Ma is present in both directions",
+    "Accidentally using komal Ni — all notes are shuddh",
+    "Making it sound like Yaman by over-emphasising the Ma-Ga movement without the teevra Ma distinction"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "medium",
+  "variant_notes": "Bilawal is also the name of a thaat (parent scale). The raag Bilawal uses Ma more sparingly than the full thaat implies — Ma has alpatva (weak note) status in some treatments."
+}

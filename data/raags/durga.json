@@ -1,0 +1,58 @@
+{
+  "raag": "Durga",
+  "alternate_names": ["Shuddh Saveri (Carnatic)"],
+  "thaat": "Bilawal (by parentage)",
+  "jati": "Audav-Audav (pentatonic — 5 notes up, 5 notes down)",
+  "time_of_day": "Evening — 6pm to 9pm",
+  "season": "All seasons",
+  "vadi": "Re (shuddh Rishabh)",
+  "samvadi": "Pa (Pancham)",
+  "aaroh": "Sa Re Ma Pa Dha Sa (Ga and Ni omitted)",
+  "avaroh": "Sa Dha Pa Ma Re Sa",
+  "notes_used": "Sa, Re shuddh, Ma shuddh, Pa shuddh, Dha shuddh — Ga and Ni completely absent",
+  "characteristic_pakad": "Sa Re Ma Pa Dha Sa, Dha Pa Ma Re Sa",
+  "rasa": ["Veera (strength and courage)", "Shanta (steady calm)", "Bhakti (devotion to the goddess)"],
+  "emotional_resonance": [
+    "feeling powerless or weak",
+    "need for courage before a challenge",
+    "low self-confidence",
+    "feeling dominated or controlled by others",
+    "need for inner stability and steadiness",
+    "recovering self-respect after being diminished",
+    "before a confrontation or negotiation",
+    "wanting to feel capable and strong"
+  ],
+  "therapy_note": "Durga is named after the goddess of strength and is a remarkably direct, clean raag. Its 5 shuddh (natural) notes with no Ga and no Ni give it a steady, unambiguous power — it does not waver or reach. This musical straightforwardness mirrors the quality of Durga herself: clear, strong, and present. Singing this raag in the evening builds a sense of quiet inner strength.",
+  "bollywood_references": [
+    {
+      "title": "Jai Mata Di",
+      "film": "Traditional devotional",
+      "year": 1950,
+      "singer": "Various",
+      "note": "Durga-based devotional — strength and invocation"
+    },
+    {
+      "title": "Aigiri Nandini (Mahishasura Mardini)",
+      "film": "Classical Sanskrit",
+      "year": 1950,
+      "singer": "M.S. Subbulakshmi",
+      "note": "Durga/Bhairavi composition — invocation of the goddess's power"
+    },
+    {
+      "title": "Maa Tujhe Salaam",
+      "film": "Non-film",
+      "year": 1997,
+      "singer": "A.R. Rahman",
+      "note": "Durga-scale influenced patriotic composition"
+    },
+    {
+      "title": "Durga Stuti (classical)",
+      "film": "Classical",
+      "year": 1960,
+      "singer": "Pandit Jasraj",
+      "note": "Classical Raag Durga composition"
+    }
+  ],
+  "classical_reference": "A relatively straightforward raag often used in devotional contexts. Pandit Jasraj's devotional recordings. Bandish: 'Jai Durge Durgati Parihaarini'",
+  "notes_for_vocalist": "Durga has a clean, simple structure — no Ga and no Ni. This makes it accessible but also requires creativity, as there are fewer notes to work with. Re is the vadi and gives the raag its characteristic upward lift from Sa. The Dha in the descent is clean shuddh. Do not add Ga or Ni under any circumstances — they immediately destroy the raag's identity. The overall character should feel open and steady, not ornate."
+}

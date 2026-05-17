@@ -1,0 +1,66 @@
+{
+  "raag": "Kafi",
+  "alternate_names": ["Kafi Thaat"],
+  "thaat": "Kafi",
+  "jati": "Sampurna-Sampurna (7 notes up and down)",
+  "time_of_day": "Late afternoon to early evening (3pm to 7pm)",
+  "season": "Spring (associated with Holi festival)",
+  "vadi": "Pa (Pancham)",
+  "samvadi": "Re (shuddh Rishabh)",
+  "aaroh": "Sa Re ga Ma Pa Dha ni Sa",
+  "avaroh": "Sa ni Dha Pa Ma ga Re Sa",
+  "notes_used": "Re shuddh, Ga komal, Ma shuddh, Pa shuddh, Dha shuddh, Ni komal",
+  "characteristic_pakad": "Sa Re ga Ma Pa Dha ni Sa, Dha Pa Ma ga Re Sa",
+  "rasa": ["Shringar (romantic playfulness)", "Hasya (humor and joy)", "Shanta (spring ease)"],
+  "emotional_resonance": [
+    "feeling dry or joyless",
+    "lost connection with playfulness",
+    "need to celebrate something small",
+    "spring fever — restless, wanting change",
+    "stuck in monotony and needing a burst of color",
+    "wanting to flirt with life again",
+    "after a good piece of news",
+    "seasonal depression lifting",
+    "wanting to dance or be physical"
+  ],
+  "therapy_note": "Kafi is the raag of Holi — the festival of color and spring. It is associated with Krishna's playfulness (Radha-Krishna lore) and with folk and devotional music of Braj. The komal Ga and komal Ni give it a swing and elasticity that makes it naturally dance-like. Kafi is the antidote to seriousness — it reminds the body that joy is physical, seasonal, and available.",
+  "bollywood_references": [
+    {
+      "title": "Holi Khele Raghuveera",
+      "film": "Baghban",
+      "year": 2003,
+      "singer": "Udit Narayan, Alka Yagnik",
+      "note": "Kafi-based Holi song — spring rasa"
+    },
+    {
+      "title": "Rang Barse Bhige Chunar Wali",
+      "film": "Silsila",
+      "year": 1981,
+      "singer": "Amitabh Bachchan",
+      "note": "Kafi-based Holi thumri — perhaps the most famous Bollywood Holi song"
+    },
+    {
+      "title": "Aayi Hori Khelne Kiya Re",
+      "film": "Non-film classical",
+      "year": 1960,
+      "singer": "Pandit Jasraj",
+      "note": "Classic Kafi hori composition"
+    },
+    {
+      "title": "Mohe Rang Do Laal",
+      "film": "Bajirao Mastani",
+      "year": 2015,
+      "singer": "Pandit Birju Maharaj, Shreya Ghoshal",
+      "note": "Kafi and Bhairavi influenced — Holi sequence"
+    },
+    {
+      "title": "Chalo Re Man Ganga Jamuna",
+      "film": "Non-film classical",
+      "year": 1960,
+      "singer": "Various",
+      "note": "Kafi-associated devotional of spring"
+    }
+  ],
+  "classical_reference": "Girija Devi's thumris in Kafi and Pandit Jasraj's horis are the definitive recordings. Bandish: 'Ke Sang Khelun Hori'",
+  "notes_for_vocalist": "Kafi is used heavily in light-classical forms — thumri, dadra, hori, chaiti. The komal Ga gives it swing; don't make it too stiff or academic. Pa is the vadi — it anchors the raag's springtime quality. Both Ni komal and Ni shuddh can appear (like Khamaj). Kafi has enormous folk music connections — many regional folk songs from North India use Kafi scale."
+}

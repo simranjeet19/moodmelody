@@ -1,0 +1,80 @@
+{
+  "raag": "Rageshwari",
+  "alternate_names": ["Rageshri", "Rageshree"],
+  "tradition": "Hindustani",
+  "thaat": "Khamaj",
+  "jati": "Shadav-Sampurna (6 notes ascending — Re varja; 7 descending)",
+  "time_of_day": "Late evening to night — second half of night (9pm to 12am)",
+  "season": "Autumn and winter",
+  "vadi": "Ga (shuddh Gandhar — G)",
+  "samvadi": "Ni (komal Nishad — n)",
+  "aaroh": "S G M P n S' (Re omitted; Pa included but treated as alpatva — weak)",
+  "avaroh": "S' n P M G R S",
+  "swaras": {
+    "komal": ["Ni"],
+    "teevra": [],
+    "shuddh": ["Re (descent only)", "Ga", "Ma", "Pa (weak/alpatva)", "Dha"],
+    "varjit": ["Re (in aaroh)"]
+  },
+  "notes_used": "Re shuddh (descent only — varja in ascent), Ga shuddh, Ma shuddh, Pa shuddh but treated as alpatva (weak) in many renditions, Dha shuddh, Ni komal. The omission of Re in ascent and the weak treatment of Pa are both defining features.",
+  "characteristic_pakad": ["S G M G S", "G M P n S'", "n P M G R S"],
+  "rasa": ["Shringar (romantic longing)", "Karuna (gentle sorrow)", "Bhakti (longing for the divine)", "Viyog (separation and yearning)"],
+  "emotional_resonance": [
+    "loneliness in the evening",
+    "longing for someone far away",
+    "feeling unappreciated by a partner or family",
+    "romantic sadness",
+    "missing home or loved ones",
+    "feeling emotionally isolated despite being around people",
+    "after a disagreement with someone you love",
+    "gentle heartache that is persistent",
+    "nostalgia and longing for the past"
+  ],
+  "therapy_note": "Rageshwari carries a quality of longing that is beautiful rather than painful — like remembering someone deeply loved. The komal Ni gives it a soft, yearning quality, while the omission of Re in the ascent creates a slight incompleteness, a reaching upward that never quite arrives — which is exactly the feeling of longing. Pa's weak status in many treatments further adds to this sense of restrained, unresolved yearning.",
+  "bollywood_references": [
+    {
+      "title": "Piya Tose Naina Laage Re",
+      "film": "Guide",
+      "year": 1965,
+      "singer": "Lata Mangeshkar",
+      "confidence": "high",
+      "note": "Widely considered Rageshwari-based — one of the most beautiful examples of this raag in Bollywood"
+    },
+    {
+      "title": "Ajeeb Dastan Hai Yeh",
+      "film": "Dil Apna Aur Preet Parai",
+      "year": 1960,
+      "singer": "Lata Mangeshkar",
+      "confidence": "medium",
+      "note": "Rageshwari-influenced evening feel — contains the characteristic komal Ni and yearning quality"
+    },
+    {
+      "title": "Jiya Jale",
+      "film": "Dil Se",
+      "year": 1998,
+      "singer": "Lata Mangeshkar",
+      "confidence": "medium",
+      "note": "Uses melodic movement reminiscent of Rageshwari"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Pandit Bhimsen Joshi",
+      "type": "Vocal reference"
+    },
+    {
+      "artist": "Kishori Amonkar",
+      "type": "Vocal — particularly expressive renditions"
+    }
+  ],
+  "notes_for_vocalist": "Re is strictly forbidden in the ascent — including it immediately shifts the character toward Khamaj. Pa is present but treated with restraint (alpatva) in many classical renditions — do not make it a strong landing note. The komal Ni is the samvadi and the emotional heart of the raag. The phrase 'G M G S' (landing on Sa after Ma and Ga) is very characteristic. This raag is quieter and more intimate than its neighbors — do not sing it loudly.",
+  "common_mistakes": [
+    "Including Re in the aaroh — it is strictly varja (forbidden) in ascent",
+    "Treating Pa as a strong note — it has alpatva (weak) status in many treatments",
+    "Confusing with Khamaj — Rageshwari has Re varja in aaroh and a different overall movement",
+    "Using shuddh Ni — Ni is komal in Rageshwari"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "medium",
+  "variant_notes": "Some musicians and schools treat Pa more fully than others — Pa's exact status varies by gharana. The raag is also called Rageshri or Rageshree; some treat these as slightly different variants. Pa treatment is the main point of variation."
+}

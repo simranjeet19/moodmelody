@@ -1,0 +1,66 @@
+{
+  "raag": "Yaman",
+  "alternate_names": ["Kalyan", "Yaman Kalyan", "Iman"],
+  "thaat": "Kalyan",
+  "jati": "Sampurna-Sampurna (7 notes up, 7 notes down)",
+  "time_of_day": "Early evening — first prahar of night (6pm to 9pm)",
+  "season": "Any; especially pleasant in monsoon",
+  "vadi": "Ga (shuddh Gandhar)",
+  "samvadi": "Ni (shuddh Nishad)",
+  "aaroh": "Sa Re Ga Ma# Pa Dha Ni Sa",
+  "avaroh": "Sa Ni Dha Pa Ma# Ga Re Sa",
+  "notes_used": "All shuddh plus Ma teevra (sharp fourth) — the teevra Ma is what defines this raag",
+  "characteristic_pakad": "Re Ga Ma# Re Sa, Ni Re Ga, Pa Dha Ni Sa",
+  "rasa": ["Shringar (beauty and romance)", "Shanta (serene joy)", "Karuna (gentle tenderness)", "Adbhut (wonder)"],
+  "emotional_resonance": [
+    "tiredness after a long day at work",
+    "need to transition from work-mode to home-mode",
+    "low-level sadness at day's end",
+    "wanting to connect with family but feeling too drained",
+    "creative block",
+    "feeling emotionally flat or numb at evening",
+    "stress from professional demands",
+    "wanting to feel beautiful or hopeful again",
+    "mild depression that arrives with sunset"
+  ],
+  "therapy_note": "Yaman is the most universally loved of all Hindustani raags — it is the gateway raag that every student learns first, and yet masters spend decades exploring it. The teevra Ma (sharp fourth) is the raag's defining note — it creates a slight lift, an elevation, like light catching the edge of a cloud at sunset. Yaman feels open, welcoming and luminous. Singing it at dusk reconnects the spirit to beauty after a mundane day.",
+  "bollywood_references": [
+    {
+      "title": "Kahin Deep Jale Kahin Dil",
+      "film": "Bees Saal Baad",
+      "year": 1962,
+      "singer": "Lata Mangeshkar",
+      "note": "A definitive Yaman-based Bollywood composition"
+    },
+    {
+      "title": "Aaj Jaane Ki Zidd Na Karo",
+      "film": "Non-film ghazal",
+      "year": 1977,
+      "singer": "Farida Khanum",
+      "note": "Yaman-based semi-classical — one of the most beloved ghazals ever recorded"
+    },
+    {
+      "title": "Jab Deep Jale Aana",
+      "film": "Chitchor",
+      "year": 1976,
+      "singer": "Yesudas",
+      "note": "Pure Yaman — the teevra Ma is clearly audible throughout"
+    },
+    {
+      "title": "Ek Pyar Ka Nagma Hai",
+      "film": "Shor",
+      "year": 1972,
+      "singer": "Lata Mangeshkar, Mukesh",
+      "note": "Yaman-influenced romantic melody"
+    },
+    {
+      "title": "Tere Bin Soona Soona Hai",
+      "film": "Various",
+      "year": 1980,
+      "singer": "Various",
+      "note": "Yaman evening feel"
+    }
+  ],
+  "classical_reference": "The most-recorded raag in Hindustani music. Pandit Bhimsen Joshi, Ustad Rashid Khan, and virtually every major artist has recorded Yaman. Bandish: 'Eri Aali Piya Bin'",
+  "notes_for_vocalist": "The teevra Ma (sharp fourth) is what makes this Yaman — use it clearly and without hesitation. In aalaap, approach Ma# from below with gentle oscillation. Ni is the samvadi and creates a beautiful tension with Sa. The raag has great scope — from gentle thumri to deep khayal. Beginners often flatten the Ma accidentally — be deliberate about keeping it sharp."
+}

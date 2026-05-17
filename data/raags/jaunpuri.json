@@ -1,0 +1,58 @@
+{
+  "raag": "Jaunpuri",
+  "alternate_names": ["Jaunpuri Asavari", "Gujari Todi (related)"],
+  "thaat": "Asavari",
+  "jati": "Audav-Sampurna (5 notes ascending — Ga and Ni omitted; 7 descending)",
+  "time_of_day": "Morning — second prahar (9am to 12pm)",
+  "season": "All seasons",
+  "vadi": "Dha (komal Dhaivat)",
+  "samvadi": "Ga (komal Gandhar — descent only)",
+  "aaroh": "Sa Re Ma Pa dha Sa (Ga and Ni omitted in ascent)",
+  "avaroh": "Sa ni dha Pa Ma ga Re Sa",
+  "notes_used": "Re shuddh, Ga komal (descent only), Ma shuddh, Pa shuddh, Dha komal, Ni komal (descent only)",
+  "characteristic_pakad": "dha Pa Ma Re Sa, Ma Pa dha Sa",
+  "rasa": ["Karuna (sorrow and compassion)", "Viyog (separation and loss)", "Bhakti (humble devotion)"],
+  "emotional_resonance": [
+    "grief after learning bad news in the morning",
+    "feeling broken after a disappointment",
+    "processing loss that arrived suddenly",
+    "a heaviness that doesn't lift despite the day starting",
+    "feeling wronged or abandoned",
+    "aftermath of a difficult conversation",
+    "tearfulness without a clear reason",
+    "morning sadness that feels specific and real"
+  ],
+  "therapy_note": "Jaunpuri is named after the city of Jaunpur (Uttar Pradesh) and carries the melancholy of that historical association — it was composed in a period of decline and longing. The komal Dha (vadi), komal Ni, and komal Ga in descent create a sound that is deeply sorrowful but dignified — not the wild grief of Todi but the composed sadness of someone who has accepted a loss. It is therapeutic for acknowledged, mature grief.",
+  "bollywood_references": [
+    {
+      "title": "Aaja Re Pardesi",
+      "film": "Madhumati",
+      "year": 1958,
+      "singer": "Lata Mangeshkar",
+      "note": "Jaunpuri/Asavari influenced — the longing for an absent lover"
+    },
+    {
+      "title": "Nain So Nain Nahi Milao",
+      "film": "Non-film classical",
+      "year": 1960,
+      "singer": "Various",
+      "note": "Classic Jaunpuri thumri"
+    },
+    {
+      "title": "Piyu Bole",
+      "film": "Parineeta",
+      "year": 2005,
+      "singer": "Sonu Nigam, Shreya Ghoshal",
+      "note": "Draws from Jaunpuri and Bhimpalasi characteristics"
+    },
+    {
+      "title": "Thumak Chalat Ramchandra",
+      "film": "Non-film devotional",
+      "year": 1960,
+      "singer": "Various",
+      "note": "Some versions rendered in Jaunpuri"
+    }
+  ],
+  "classical_reference": "Often compared to Asavari (its parent thaat). Gangubai Hangal has definitive Jaunpuri recordings. Bandish: 'Kahe Sataye Mohe'",
+  "notes_for_vocalist": "Ga and Ni are forbidden in the ascent — the pentatonic aaroh (without them) gives the raag a stiff, constrained quality that matches its emotional weight. In the descent, komal Ga and komal Ni both appear and must be sung softly. The komal Dha (vadi) is what gives Jaunpuri its specific character — it sounds like a downward pull, like the weight of loss. Do not confuse with Asavari, which has a different pakad and movement."
+}

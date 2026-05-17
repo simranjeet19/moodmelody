@@ -1,0 +1,63 @@
+{
+  "raag": "Marwa",
+  "alternate_names": ["Maruba"],
+  "tradition": "Hindustani",
+  "thaat": "Marwa",
+  "jati": "Shadav-Shadav (Pa is varja — omitted in both aaroh and avaroh)",
+  "time_of_day": "Dusk — twilight (sunset, approximately 5pm to 7pm)",
+  "season": "Winter",
+  "vadi": "Re (komal Rishabh — r)",
+  "samvadi": "Dha (shuddh Dhaivat — D)",
+  "aaroh": "S r G M# D N S'",
+  "avaroh": "S' N D M# G r S",
+  "swaras": {
+    "komal": ["Re"],
+    "teevra": ["Ma"],
+    "shuddh": ["Ga", "Dha", "Ni"],
+    "varjit": ["Pa"]
+  },
+  "notes_used": "Sa (very minimal — Sa is weak and rarely emphasised), Re komal, Ga SHUDDH, Ma teevra, Dha shuddh, Ni shuddh. Pa completely absent.",
+  "characteristic_pakad": ["r G M# D N S'", "N D M# G r S", "S r G M# D"],
+  "rasa": ["Viyog (twilight separation)", "Karuna (unresolved longing)", "Gambhira (deepening shadow)"],
+  "emotional_resonance": [
+    "the specific sadness of sunset",
+    "a day ending without resolution",
+    "an argument that has not been resolved before evening",
+    "anticipatory anxiety about what is coming",
+    "transition anxiety — between states, phases, decisions",
+    "feeling suspended between two choices",
+    "the dread of the evening when you are alone",
+    "difficulty accepting that something is ending"
+  ],
+  "therapy_note": "Marwa is the raag of twilight — the suspended moment between day and night when the light is neither bright nor dark. The near-absence of Sa (the home note) in its actual movement creates a profound sense of restlessness and suspension — the mind wants to resolve but the raag withholds it. This mirrors the emotional state of being between: between a decision, between phases of life, between one state and another. Marwa does not resolve the feeling; it validates it.",
+  "bollywood_references": [
+    {
+      "title": "Hai Apna Dil Toh Awara",
+      "film": "Solva Saal",
+      "year": 1958,
+      "singer": "Hemant Kumar",
+      "confidence": "medium",
+      "note": "Contains phrases reminiscent of Marwa's restless twilight character — not a strict classical treatment"
+    }
+  ],
+  "classical_references": [
+    {
+      "artist": "Ustad Vilayat Khan",
+      "type": "Sitar — considered the definitive Marwa recording"
+    },
+    {
+      "artist": "Pandit Bhimsen Joshi",
+      "type": "Vocal reference"
+    }
+  ],
+  "notes_for_vocalist": "The near-absence of Sa is what makes Marwa so difficult — the home note is there but avoided in movement. Komal Re is the vadi and must be prominent. Ga is SHUDDH (natural, not flat) — this is a common and serious error. Teevra Ma is mandatory; shuddh Ma destroys this raag. Pa is completely forbidden. The overall effect should feel suspended and restless, never arriving home.",
+  "common_mistakes": [
+    "Singing Ga as komal — Marwa has SHUDDH Ga. This is the most common error and completely changes the raag's character.",
+    "Using shuddh Ma — only teevra Ma is permitted",
+    "Including Pa — it is strictly forbidden",
+    "Emphasising Sa too much — Sa is used minimally"
+  ],
+  "classical_accuracy_confidence": "high",
+  "bollywood_mapping_confidence": "low",
+  "variant_notes": "Marwa's treatment of Sa varies by gharana — some allow more Sa in development, some restrict it further. Vadi assignment also varies between Re komal and Dha depending on source."
+}

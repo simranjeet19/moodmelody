@@ -1,0 +1,66 @@
+{
+  "raag": "Khamaj",
+  "alternate_names": ["Khamaj Thaat"],
+  "thaat": "Khamaj",
+  "jati": "Shadav-Sampurna (6 notes ascending — Pa often omitted; 7 descending)",
+  "time_of_day": "Evening — first or second prahar of night (6pm to 10pm)",
+  "season": "Spring, monsoon",
+  "vadi": "Ga (shuddh Gandhar)",
+  "samvadi": "Ni (komal Nishad)",
+  "aaroh": "Sa Re Ga Ma Dha Ni Sa (Pa sometimes used, komal Ni in ascent)",
+  "avaroh": "Sa ni Dha Pa Ma Ga Re Sa",
+  "notes_used": "Ni komal (primarily), Ni shuddh also used — Khamaj uniquely uses both Ni komal and Ni shuddh in the same composition",
+  "characteristic_pakad": "Ga Ma Dha Ni Sa, ni Dha Pa Ma Ga Re Sa",
+  "rasa": ["Shringar (romance and playfulness)", "Hasya (lightness and joy)", "Shanta (pleasant relaxation)"],
+  "emotional_resonance": [
+    "feeling too serious or uptight",
+    "need to lighten up and play",
+    "stiffness after formal professional interactions",
+    "wanting to connect romantically but feeling awkward",
+    "evening social anxiety",
+    "creative block that comes from over-seriousness",
+    "need to laugh or be playful",
+    "feeling the weight of adult responsibilities",
+    "wanting to enjoy a relaxed evening"
+  ],
+  "therapy_note": "Khamaj is the raag of lightness — it is the most commonly used raag in thumri (the light-classical romantic form), dadra, and hori (festival songs). Unlike the serious major raags, Khamaj does not ask you to go deep inward. It invites you to be present, easy, and joyful. The use of both komal and shuddh Ni gives it a flexible, playful quality — it can shift between tender and bright in the same breath.",
+  "bollywood_references": [
+    {
+      "title": "Hamari Atariya Pe Aao Re Sanwariya",
+      "film": "Non-film thumri",
+      "year": 1960,
+      "singer": "Girija Devi",
+      "note": "Classic Khamaj thumri — the definitive form of this raag in light-classical"
+    },
+    {
+      "title": "Mere Piya Gaye Rangoon",
+      "film": "Patanga",
+      "year": 1949,
+      "singer": "Shamshad Begum",
+      "note": "Khamaj-based playful song — captures the raag's lighthearted quality"
+    },
+    {
+      "title": "Jhanan Jhanan Baje Re Kangana",
+      "film": "Classical thumri",
+      "year": 1965,
+      "singer": "Siddheshwari Devi",
+      "note": "Classic Khamaj thumri reference"
+    },
+    {
+      "title": "Aayega Aanewala",
+      "film": "Mahal",
+      "year": 1949,
+      "singer": "Lata Mangeshkar",
+      "note": "Khamaj-influenced romantic mystery — one of the most haunting Bollywood compositions"
+    },
+    {
+      "title": "Paan Khaye Saiyan Hamaro",
+      "film": "Traditional thumri",
+      "year": 1950,
+      "singer": "Shobha Gurtu",
+      "note": "Definitive Khamaj thumri — playful and expressive"
+    }
+  ],
+  "classical_reference": "Girija Devi and Shobha Gurtu are the definitive Khamaj interpreters. It is the thaat (parent scale) for multiple raags. Bandish: 'Kaun Gali Gayo Shyam'",
+  "notes_for_vocalist": "Khamaj has a unique feature — both komal Ni and shuddh Ni can be used, giving the performer freedom. In thumri style, this flexibility is exploited beautifully. Pa is sometimes skipped in ascent. This raag demands a relaxed, liquid vocal style — stiffness kills Khamaj. It is the raag most associated with thumri ang (romantic style) and should be approached with playfulness."
+}
